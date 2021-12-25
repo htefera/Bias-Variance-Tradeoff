@@ -44,22 +44,21 @@ To store the predicted values we created a matrix of results with test size and 
 dimensions of the matrix. These values are used for calculating the bias and variance. Using the
 selected number of cross validations, we predicted the value of each test data 5 times.
 
-###### the following example for the linear regression (polynomial degree 1) I created a variable called p1_results and
-the result looks like 
+ The following example for the linear regression (polynomial degree 1)
 
 ![Regreesion](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/4.PNG)
-
+   
 Where the rows numbers are the test records and column number’s the number of cross
 validations. Even if we used different polynomial regression with various degrees, but there is still
 error between the actual data points and predicted values. When I use simple modes, they do not
 represent the actual relationship between the response variable (ring) and the feature variable
 variables. To decide which model is perfect for my regression I performed bias variance analysis by
-varying complexities and on the next section we discuss the results and finding of the experiments.
+varying complexities.
 
 ## IV- Discussion of the results and findings from the experiment
 
-After I trained the model on the train data, finally I evaluated the performance of the model on
-the unseen data and registered the following bias variance values for the selected test data.
+After we trained the model on the train data, we evaluated the performance of the model on
+the unseen data(aka test data) and registered the following bias variance values for the selected test data.
 Where X0, X1 and X2 are the records at position 5,60 and 100 of the abalone data set.
 The following table shows the bias variance coorelation
 
