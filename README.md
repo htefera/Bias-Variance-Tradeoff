@@ -39,6 +39,6 @@ selected number of cross validations, we predicted the value of each test data 5
 ###### the following example for the linear regression (polynomial degree 1) I created a variable called p1_results and
 the result looks like 
 
-![Regreesion]()
+![Regreesion](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/4.PNG)
 
 
