@@ -105,6 +105,12 @@ complexities and I obtained the following complexity vs bias variance.
    </div>               
 
 
+<br>
+
+As we can see from the graph the variance changes slightly from complexity to complexity but the
+bias is almost remains the same.
+According the [Occam's razor principle](https://machinelearningmastery.com/ensemble-learning-and-occams-razor/)  bias and variance is low at complexity 1  balances between the bias and variance errors.
+
 ## VI- Reference
 
  1. [Scikit Learn](http://scikit-learn.org/stable/) <br>
