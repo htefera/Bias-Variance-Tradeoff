@@ -1,6 +1,7 @@
 # Evaluation of Machine Learning algorithms and Bias Variance Trade off analysis
 
-## I: Description of the experment
+## I- Introduction Bias Variance
+## II- Description of the experment
 The objective of this assignment to evaluate machine learning algorithms on a given data
 set and analyzing the bias variance tradeoff as complexity of the model increases to fit the
 data using different polynomial regressions
@@ -20,7 +21,7 @@ Firstly, we modeled the relationship between the independent and response variab
 linear mode and polynomial regression to fit the relationship between independent
 variables and the response variable. 
 
-## II- Design of the experiment
+## III- Design of the experiment
 
 Firstly, I performed prepressing tasks to drop categorical variables (Sex) and some of
 features which are not used in the model such as Shell weight and Shucked weight. After
@@ -48,7 +49,7 @@ represent the actual relationship between the response variable (ring) and the f
 variables. To decide which model is perfect for my regression I performed bias variance analysis by
 varying complexities and on the next section we discuss the results and finding of the experiments.
 
-# III- Discussion of the results and findings from the experiment
+## IV- Discussion of the results and findings from the experiment
 
 After I trained the model on the train data, finally I evaluated the performance of the model on
 the unseen data and registered the following bias variance values for the selected test data.
@@ -59,6 +60,10 @@ The following table shows the bias variance coorelation
 
 Note that both bias and variance are calculated column wise (record wise calculation) taking into
 consideration all the values of the independent variables. 
+
+
+
+
 
 
 
