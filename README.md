@@ -94,7 +94,7 @@ polynomial degree 1.
 ## VI- Reference
 
  1. [Scikit Learn](http://scikit-learn.org/stable/) <br>
- 2. [Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229) 
+ 2. [The Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229) 
  3. [Understanding the Bias-Variance Tradeof](http://scott.fortmann-roe.com/docs/BiasVariance.html)
  4. [Bias-Variance Tradeoff in Machine Learning](https://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
 
