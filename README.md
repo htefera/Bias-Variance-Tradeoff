@@ -1,6 +1,6 @@
 # Evaluation of Machine Learning algorithms and Bias Variance Trade off analysis
 
-## I - Introduction Bias Variance
+## I - Introduction
 ### What is Bias?
 
 Bias is the difference between the average prediction of a model and the correct value which we are trying to predict. Model with high bias means very little attention is given to the training data and oversimplifies the model. This always leads to high error on training and test data.
