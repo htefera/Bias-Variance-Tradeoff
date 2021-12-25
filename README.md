@@ -90,13 +90,19 @@ consideration all the values of the independent variables.
 
 <br>
 
-From the above three graphs the variance is almost constant but the bias changes rapidly after the
-third complexity (Here the actual polynomial degree is 6 because I used polynomials with degree 1,
-5, 6, and 7). For the first and third graph according the [Occam's razor principle](https://machinelearningmastery.com/ensemble-learning-and-occams-razor/) the optimum value for
-bias and variance is attained at the point 3 on the graph. As we stated earlier the actual degree
-represented by 3 above is polynomial degree 6. For the second graph the optimum complexity is
-polynomial degree 1.
 
+Even if I used different polynomial regression with various degrees, but there is error between the
+actual data points and predicted value of using the model. When I use simple modes, they do not
+represent the actual relationship between the response variable (ring) and the feature variable
+(diameter). Using complex models are also sensitive to small change in the data. Therefore, to
+decide which model is perfect for my data set I performed bias variance analysis by varying
+complexities and I obtained the following complexity vs bias variance.
+
+
+![Bias Variance Trade](Images/bvmain.png)
+<div align= center">
+   Figure : Bias variance graph
+                   </div>               
 
 
 ## VI- Reference
