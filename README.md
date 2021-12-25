@@ -48,6 +48,15 @@ represent the actual relationship between the response variable (ring) and the f
 variables. To decide which model is perfect for my regression I performed bias variance analysis by
 varying complexities and on the next section we discuss the results and finding of the experiments.
 
+# III- Discussion of the results and findings from the experiment
+
+After I trained the model on the train data, finally I evaluated the performance of the model on
+the unseen data and registered the following bias variance values for the selected test data.
+Where X0, X1 and X2 are the records at position 5,60 and 100 of the abalone data set.
+
+
+
+
 
 
 
