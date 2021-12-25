@@ -80,9 +80,8 @@ consideration all the values of the independent variables.
 ### V - Graph of actual data vs predicted data using the model
 
 
-![Bias Variance For selected test data](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/1.PNG)
-![Bias Variance For selected test data](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/2.PNG)
-![Bias Variance For selected test data](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/3.PNG)
+
+![Fitting the data](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/Bv.png)
 
 
 <div align="center">
