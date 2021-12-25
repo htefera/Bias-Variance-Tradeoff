@@ -47,6 +47,10 @@ selected number of cross validations, we predicted the value of each test data 5
  The following example for the linear regression (polynomial degree 1)
 
 ![Regreesion](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/4.PNG)
+ <div>
+  Figure 1: Bias Variance Vs dataset attributes
+ </div>
+ <br>
    
 Where the rows numbers are the test records and column number’s the number of cross
 validations. Even if we used different polynomial regression with various degrees, but there is still
@@ -77,7 +81,7 @@ consideration all the values of the independent variables.
 
 
 <div align="center">
- Figure 1. Bias and Variance graphs
+ Figure 2. Bias and Variance graphs
 </div>
 
 <br>
