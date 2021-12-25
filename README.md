@@ -68,6 +68,18 @@ The following table shows the bias variance coorelation
 Note that both bias and variance are calculated column wise (record wise calculation) taking into
 consideration all the values of the independent variables. 
 
+### V- Bias variance graph for the selected test data
+
+
+![Bias Variance For selected test data](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/1.PNG)
+![Bias Variance For selected test data](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/2.PNG)
+![Bias Variance For selected test data](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/3.PNG)
+
+
+
+
+
+
 
 
 
