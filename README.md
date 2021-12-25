@@ -53,8 +53,12 @@ varying complexities and on the next section we discuss the results and finding 
 After I trained the model on the train data, finally I evaluated the performance of the model on
 the unseen data and registered the following bias variance values for the selected test data.
 Where X0, X1 and X2 are the records at position 5,60 and 100 of the abalone data set.
+The following table shows the bias variance coorelation
 
+![Bias Variance Comparision](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/5.PNG)
 
+Note that both bias and variance are calculated column wise (record wise calculation) taking into
+consideration all the values of the independent variables. 
 
 
 
