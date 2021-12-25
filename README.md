@@ -93,11 +93,11 @@ polynomial degree 1.
 
 ## VI- Reference
 
-  [Scikit Learn](http://scikit-learn.org/stable/)
-<li> http://www.ultravioletanalytics.com/2014/12/12/kaggle-titanic-competition-part-ix-biasvariance-and-learning-curves/ </li>
-<li> http://scott.fortmann-roe.com/docs/BiasVariance.html </li>
-<li> https://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/ </li>
- </ol>
+ 1. [Scikit Learn](http://scikit-learn.org/stable/) <br>
+ 2. [Understanding the Bias-Variance Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229) 
+ 3. [Understanding the Bias-Variance Tradeof](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+ 4. [Bias-Variance Tradeoff in Machine Learning](https://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
+
 
 
 
