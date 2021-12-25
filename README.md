@@ -47,8 +47,8 @@ selected number of cross validations, we predicted the value of each test data 5
  The following example for the linear regression (polynomial degree 1)
 
 ![Regreesion](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/4.PNG)
- <div>
-  Figure 1: Regression by cross validation
+ <div align="center">
+  Figure 1: Regression(prediction) using cross validation
  </div>
  <br>
    
@@ -69,7 +69,7 @@ Below table shows the bias variance trade off
 
 ![Bias Variance Comparision](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/5.png)
 
- <div>
+ <div aling="center">
   Table 1- Table of Bias and Variance for selected test data’s (row 5, 60,100)
  </div>
 
