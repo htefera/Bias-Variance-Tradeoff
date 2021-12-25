@@ -48,7 +48,7 @@ selected number of cross validations, we predicted the value of each test data 5
 
 ![Regreesion](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/4.PNG)
  <div align="center">
-  Figure 1: Regression(prediction) using cross validation
+  **Figure 1: Linear regression using cross validation for selected data**
  </div>
  <br>
    
