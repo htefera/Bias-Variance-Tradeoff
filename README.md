@@ -77,7 +77,7 @@ Below table shows the bias variance trade off
 Note that both bias and variance are calculated column wise (record wise calculation) taking into
 consideration all the values of the independent variables. 
 
-### V - Bias variance graph for the selected test data
+### V - Graph of actual data vs predicted data using the model
 
 
 ![Bias Variance For selected test data](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/1.PNG)
