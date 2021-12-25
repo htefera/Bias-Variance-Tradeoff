@@ -59,8 +59,9 @@ varying complexities.
 
 After we trained the model on the train data, we evaluated the performance of the model on
 the unseen data(aka test data) and registered the following bias variance values for the selected test data.
-Where X0, X1 and X2 are the records at position 5,60 and 100 of the [abalone](https://archive.ics.uci.edu/ml/datasets/abalone) dataset.
-The following table shows the bias variance coorelation
+Where X0, X1 and X2 are the records at position 5,60 and 100 of the [abalone](https://archive.ics.uci.edu/ml/datasets/abalone) dataset. We can use different records and evaluate the model.
+
+Below table shows the bias variance trade off
 
 ![Bias Variance Comparision](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/5.png)
 
