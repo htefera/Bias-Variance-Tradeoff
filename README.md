@@ -80,7 +80,7 @@ consideration all the values of the independent variables.
  Figure 1. Bias and Variance graphs
 </div>
 
-
+<br>
 
 From the above three graphs the variance is almost constant but the bias changes rapidly after the
 third complexity (Here the actual polynomial degree is 6 because I used polynomials with degree 1,
