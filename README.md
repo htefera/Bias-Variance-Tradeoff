@@ -92,7 +92,7 @@ polynomial degree 1.
 
 
 ## VI- Reference
-<ol>
+
   [Scikit Learn](http://scikit-learn.org/stable/)
 <li> http://www.ultravioletanalytics.com/2014/12/12/kaggle-titanic-competition-part-ix-biasvariance-and-learning-curves/ </li>
 <li> http://scott.fortmann-roe.com/docs/BiasVariance.html </li>
