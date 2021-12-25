@@ -13,7 +13,7 @@ The objective of this assignment to evaluate machine learning algorithms on a gi
 set and analyzing the bias variance tradeoff as complexity of the model increases to fit the
 data using different polynomial regressions
 
-The selected dataset consists of different attributes of the plant called abalone. The main
+The selected dataset consists of different attributes of the plant called **abalone**. The main
 task of the experiment is predicting the age of the plant from different physical
 measurements like height, width, height and others. The data sets consist of 4177
 instances and 8 features and one target variable called rings which is the age of the plant.
