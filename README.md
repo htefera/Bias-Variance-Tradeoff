@@ -81,6 +81,13 @@ consideration all the values of the independent variables.
 </div>
 
 
+From the above three graphs the variance is almost constant but the bias changes rapidly after the
+third complexity (Here the actual polynomial degree is 6 because I used polynomials with degree 1,
+5, 6, and 7). For the first and third graph according the Occam's razor principle the optimum value for
+bias and variance is attained at the point 3 on the graph. As we stated earlier the actual degree
+represented by 3 above is polynomial degree 6. For the second graph the optimum complexity is
+polynomial degree 1.
+
 
 
 
