@@ -55,7 +55,7 @@ the unseen data and registered the following bias variance values for the select
 Where X0, X1 and X2 are the records at position 5,60 and 100 of the abalone data set.
 The following table shows the bias variance coorelation
 
-![Bias Variance Comparision](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/5.PNG)
+![Bias Variance Comparision](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/5.png)
 
 Note that both bias and variance are calculated column wise (record wise calculation) taking into
 consideration all the values of the independent variables. 
