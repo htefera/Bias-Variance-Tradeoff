@@ -1,6 +1,6 @@
 # Evaluation of Machine Learning algorithms and Bias Variance Trade off analysis
 
-## I- Introduction Bias Variance
+## I - Introduction Bias Variance
 ### What is Bias?
 
 Bias is the difference between the average prediction of a model and the correct value which we are trying to predict. Model with high bias means very little attention is given to the training data and oversimplifies the model. This always leads to high error on training and test data.
@@ -8,7 +8,7 @@ Bias is the difference between the average prediction of a model and the correct
 ### What is Variance?
 Variance is the variability of model prediction for a given data point  which tells us spread of our data.  Model with high variance pays a lot of attention to the training data and does not generalize on the test data(unseen data) .Thus, such models perform  really well on training data, but has high error rates on test data.
 
-## II- Description of the experment
+## II - Description of the experment
 The objective of this assignment to evaluate machine learning algorithms on a given data
 set and analyzing the bias variance tradeoff as complexity of the model increases to fit the
 data using different polynomial regressions
@@ -28,7 +28,7 @@ Firstly, we modeled the relationship between the independent and response variab
 linear mode and polynomial regression to fit the relationship between independent
 variables and the response variable. 
 
-## III- Design of the experiment
+## III - Design of the experiment
 
 Firstly, I performed prepressing tasks to drop categorical variables (Sex) and some of
 features which are not used in the model such as Shell weight and Shucked weight. After
@@ -55,7 +55,7 @@ represent the actual relationship between the response variable (ring) and the f
 variables. To decide which model is perfect for my regression I performed bias variance analysis by
 varying complexities.
 
-## IV- Discussion of the results and findings from the experiment
+## IV - Discussion of the results and findings from the experiment
 
 After we trained the model on the train data, we evaluated the performance of the model on
 the unseen data(aka test data) and registered the following bias variance values for the selected test data.
@@ -68,7 +68,7 @@ Below table shows the bias variance trade off
 Note that both bias and variance are calculated column wise (record wise calculation) taking into
 consideration all the values of the independent variables. 
 
-### V- Bias variance graph for the selected test data
+### V - Bias variance graph for the selected test data
 
 
 ![Bias Variance For selected test data](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/1.PNG)
