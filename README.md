@@ -89,11 +89,11 @@ bias and variance is attained at the point 3 on the graph. As we stated earlier 
 represented by 3 above is polynomial degree 6. For the second graph the optimum complexity is
 polynomial degree 1.
 
-[Scikit Learn](http://scikit-learn.org/stable/)
+
 
 ## VI- Reference
 <ol>
- <li>![Scikit Learn](http://scikit-learn.org/stable/) </li>
+  [Scikit Learn](http://scikit-learn.org/stable/)
 <li> http://www.ultravioletanalytics.com/2014/12/12/kaggle-titanic-competition-part-ix-biasvariance-and-learning-curves/ </li>
 <li> http://scott.fortmann-roe.com/docs/BiasVariance.html </li>
 <li> https://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/ </li>
