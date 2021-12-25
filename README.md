@@ -1,6 +1,13 @@
 # Evaluation of Machine Learning algorithms and Bias Variance Trade off analysis
 
 ## I- Introduction Bias Variance
+### what is a Bias?
+
+Bias is the difference between the average prediction of a model and the correct value which we are trying to predict. Model with high bias means very little attention is given to the training data and oversimplifies the model. This always leads to high error on training and test data.
+
+### What is Variance?
+Variance is the variability of model prediction for a given data point  which tells us spread of our data.  Model with high variance pays a lot of attention to the training data and does not generalize on the test data(unseen data) .Thus, such models perform  really well on training data, but has high error rates on test data.
+
 ## II- Description of the experment
 The objective of this assignment to evaluate machine learning algorithms on a given data
 set and analyzing the bias variance tradeoff as complexity of the model increases to fit the
