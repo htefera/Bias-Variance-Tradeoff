@@ -85,7 +85,7 @@ consideration all the values of the independent variables.
 
 
 <div align="center">
- Figure 2. Bias variance graph for the selected test data
+ Figure 2. Fitting the data using different complexities
 </div>
 
 <br>
