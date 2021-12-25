@@ -99,10 +99,10 @@ decide which model is perfect for my data set I performed bias variance analysis
 complexities and I obtained the following complexity vs bias variance.
 
 
-![Bias Variance Trade](Images/bvmain.png)
-<div align= center">
+![Bias Variance Graph](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/bvmain.png)
+<div align= "center">
    Figure : Bias variance graph
-                   </div>               
+   </div>               
 
 
 ## VI- Reference
