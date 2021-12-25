@@ -80,7 +80,6 @@ consideration all the values of the independent variables.
  Fig 1. Bias and Variance graphs
 
 </div>
-...
 </pre>
 
 
