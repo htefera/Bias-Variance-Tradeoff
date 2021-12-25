@@ -89,7 +89,7 @@ bias and variance is attained at the point 3 on the graph. As we stated earlier 
 represented by 3 above is polynomial degree 6. For the second graph the optimum complexity is
 polynomial degree 1.
 
-
+[Scikit Learn](http://scikit-learn.org/stable/)
 
 ## VI- Reference
 <ol>
