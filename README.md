@@ -41,4 +41,13 @@ the result looks like
 
 ![Regreesion](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/4.PNG)
 
+Where the rows numbers are the test records and column number’s the number of cross
+validations. Even if we used different polynomial regression with various degrees, but there is still
+error between the actual data points and predicted values. When I use simple modes, they do not
+represent the actual relationship between the response variable (ring) and the feature variable
+variables. To decide which model is perfect for my regression I performed bias variance analysis by
+varying complexities and on the next section we discuss the results and finding of the experiments.
+
+
+
 
