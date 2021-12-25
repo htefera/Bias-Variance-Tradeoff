@@ -48,7 +48,7 @@ selected number of cross validations, we predicted the value of each test data 5
 
 ![Regreesion](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/4.PNG)
  <div>
-  Figure 1: Bias Variance Vs dataset attributes
+  Figure 1: Regression by cross validation
  </div>
  <br>
    
@@ -69,6 +69,10 @@ Below table shows the bias variance trade off
 
 ![Bias Variance Comparision](https://github.com/htefera/Bias-Variance-Tradeoff/blob/master/Bias%20Variance%20Images/5.png)
 
+ <div>
+  Table 1- Table of Bias and Variance for selected test data’s (row 5, 60,100)
+ </div>
+
 Note that both bias and variance are calculated column wise (record wise calculation) taking into
 consideration all the values of the independent variables. 
 
@@ -81,7 +85,7 @@ consideration all the values of the independent variables.
 
 
 <div align="center">
- Figure 2. Bias and Variance graphs
+ Figure 2. Bias variance graph for the selected test data
 </div>
 
 <br>
