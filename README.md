@@ -9,9 +9,10 @@ Bias is the difference between the average prediction of a model and the correct
 Variance is the variability of model prediction for a given data point  which tells us spread of our data.  Model with high variance pays a lot of attention to the training data and does not generalize on the test data(unseen data) .Thus, such models perform  really well on training data, but has high error rates on test data.
 
 ## II - Description of the experment
-The objective of this assignment to evaluate machine learning algorithms on a given data
-set and analyzing the bias variance tradeoff as complexity of the model increases to fit the
-data using different polynomial regressions
+
+The main goal of this project to evaluate machine learning algorithms on a particular data set
+called abalone and analyzing the bias variance tradeoff as complexity of the model increases to fit
+the data using different polynomial regressions.
 
 The selected dataset consists of different attributes of the plant called **abalone**. The main
 task of the experiment is predicting the age of the plant from different physical
